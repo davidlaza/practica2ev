@@ -48,4 +48,9 @@ public class DavidLazaroCoches {
     public int getPrecio() {
         return precio;
     }
+    
+ // Setter para la variable precio
+    public void setPrecio(int precio) {
+        this.precio = precio;
+    }
 }
