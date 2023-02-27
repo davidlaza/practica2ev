@@ -23,4 +23,9 @@ public class DavidLazaroCoches {
     public void setMarca(String marca) {
         this.marca = marca;
     }
+    
+ // Getter para la variable modelo
+    public String getModelo() {
+        return modelo;
+    }
 }
