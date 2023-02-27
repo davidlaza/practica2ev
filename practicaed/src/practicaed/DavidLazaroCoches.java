@@ -18,4 +18,9 @@ public class DavidLazaroCoches {
     public String getMarca() {
         return marca;
     }
+    
+ // Setter para la variable marca
+    public void setMarca(String marca) {
+        this.marca = marca;
+    }
 }
