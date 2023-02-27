@@ -43,4 +43,9 @@ public class DavidLazaroCoches {
     public void setCv(int cv) {
         this.cv = cv;
     }
+    
+ // Getter para la variable precio
+    public int getPrecio() {
+        return precio;
+    }
 }
