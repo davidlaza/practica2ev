@@ -28,4 +28,9 @@ public class DavidLazaroCoches {
     public String getModelo() {
         return modelo;
     }
+    
+ // Setter para la variable modelo
+    public void setModelo(String modelo) {
+        this.modelo = modelo;
+    }
 }
