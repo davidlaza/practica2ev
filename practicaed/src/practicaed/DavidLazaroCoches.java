@@ -38,4 +38,9 @@ public class DavidLazaroCoches {
     public int getCv() {
         return cv;
     }
+    
+ // Setter para la variable cv
+    public void setCv(int cv) {
+        this.cv = cv;
+    }
 }
