@@ -33,4 +33,9 @@ public class DavidLazaroCoches {
     public void setModelo(String modelo) {
         this.modelo = modelo;
     }
+    
+ // Getter para la variable cv
+    public int getCv() {
+        return cv;
+    }
 }
