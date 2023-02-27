@@ -53,4 +53,10 @@ public class DavidLazaroCoches {
     public void setPrecio(int precio) {
         this.precio = precio;
     }
+    
+    private void imprimirNombreCoches() {
+        for (int i = 0; i < 1000; i++) {
+          System.out.println("Nombre del coche");
+        }
+      }
 }
